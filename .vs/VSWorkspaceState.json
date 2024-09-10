@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\views",
+    "\\src\\views\\dashboard",
+    "\\src\\views\\dashboard\\admin",
+    "\\src\\views\\dashboard\\editor",
+    "\\src\\views\\login",
+    "\\src\\views\\nested"
+  ],
+  "SelectedNode": "\\src\\views\\login\\index.vue",
+  "PreviewInSolutionExplorer": false
+}
